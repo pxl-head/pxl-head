@@ -10,9 +10,6 @@
     <text x="50" y="27" font-size="13" font-weight="700" letter-spacing="3">VISUAL PRACTICE / 2026</text>
     <text x="50" y="184" font-size="150" font-weight="900" letter-spacing="-9">PXL</text>
     <text x="390" y="352" font-size="150" font-weight="900" letter-spacing="-10">HEAD</text>
-    <text x="805" y="238" font-size="12" font-weight="700" letter-spacing="2.5">01 — IMAGE</text>
-    <text x="805" y="270" font-size="12" font-weight="700" letter-spacing="2.5">02 — MOTION</text>
-    <text x="805" y="302" font-size="12" font-weight="700" letter-spacing="2.5">03 — INTERFACE</text>
     <text x="50" y="405" font-size="11" letter-spacing="2.6">PHOTOGRAPHY  /  VIDEO  /  CREATIVE CODE</text>
     <text x="1150" y="405" text-anchor="end" font-size="11" letter-spacing="2">IMAGES → SYSTEMS</text>
   </g>
@@ -22,5 +19,4 @@
     <text x="950" y="108" font-size="14" letter-spacing="2.5">VIDEO</text>
     <text x="950" y="141" font-size="14" letter-spacing="2.5">UI / WEB</text>
   </g>
-  <circle cx="1136" cy="27" r="6" fill="#ff3b30"/>
 </svg>
